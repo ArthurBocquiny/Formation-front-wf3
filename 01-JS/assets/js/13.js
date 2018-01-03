@@ -6,7 +6,7 @@
 
     Les évènements : MOUSE (Souris)
 
-        click      : au clise sur un élément
+        click      : au click sur un élément
         mouseenter : la souris passe au dessus de la zone qu'occupe un élément
         mouseleave : la souris sors de cette zone
 
